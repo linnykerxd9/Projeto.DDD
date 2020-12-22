@@ -1,0 +1,16 @@
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.deps.json
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csprojAssemblyReference.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfoInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfo.cs
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CopyComplete
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.pdb

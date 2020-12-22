@@ -1,0 +1,9 @@
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Domain\bin\Debug\netcoreapp3.1\Aurora.Domain.deps.json
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Domain\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Domain\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.csprojAssemblyReference.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.AssemblyInfoInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.AssemblyInfo.cs
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Domain\obj\Debug\netcoreapp3.1\Aurora.Domain.pdb

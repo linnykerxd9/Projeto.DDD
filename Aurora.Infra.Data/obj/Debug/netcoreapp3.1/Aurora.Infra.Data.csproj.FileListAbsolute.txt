@@ -1,0 +1,15 @@
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.deps.json
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.json
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.dev.json
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfo.cs
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CopyComplete
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.genruntimeconfig.cache

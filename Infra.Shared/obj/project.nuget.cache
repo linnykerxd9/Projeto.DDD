@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXxcFz40qzZM3f6zLDOi6t6eoUM100JM4zPiFuYkBGpkqhzm+Oq9IZ4nBggyVVHiUxSkdE98qLmZ6zRtPrB4cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viviane\\Desktop\\Nova pasta\\decola Dev 2021 Avanade\\aurora-api-project-master\\Infra.Shared\\Infra.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viviane\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

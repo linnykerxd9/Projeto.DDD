@@ -1,0 +1,12 @@
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.deps.json
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfoInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfo.cs
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CopyComplete
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\Viviane\Desktop\Nova pasta\decola Dev 2021 Avanade\aurora-api-project-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csprojAssemblyReference.cache
